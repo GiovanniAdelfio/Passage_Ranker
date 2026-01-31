@@ -3,4 +3,4 @@ Developed a multi-stage Learning to Rank (LTR) pipeline combining Hybrid Retriev
 
 A comprehensive description of the work done can be found in the [Review](/Review.pdf).
 
-It is possible to execute the code from the [notebook](https://colab.research.google.com/drive/1xu3xwYV5KfzGSo4fYHXgVd4nLT7mN2wK?usp=sharing).
+It is possible to execute the code from the [notebook](https://colab.research.google.com/drive/1fDuRO49-co0X9YTv4kjF66jAziaOeUDj?usp=sharing).
